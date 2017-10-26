@@ -4,7 +4,7 @@ FCC 2017 秋冬Hackthon 项目
 - 腾讯地图API
 - jquery 2.0.3
 - bootstrap 4.0.0
-- leancloud（后台）
+- leancloud（koa2后台）
 ## 目标
 以成都地图为平台，在地图上以经纬度添加标记，点击标记展现参赛者以“点亮成都”为主题的SPA。
 
